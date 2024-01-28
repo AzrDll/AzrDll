@@ -1,5 +1,8 @@
+<p align="center">
 [![AzRDll](https://readme-typing-svg.demolab.com/?lines=Hi%20I'm%20Noah%20AKA%20AzRDll)](https://git.io/typing-svg)
-
+</p>
+<br/>
+<br/>
 <p align="center">
   <a href="https://github.com/AzRDll">
     <img src="./CW16nFVXLSQxSMUEMd.gif" alt="AzRDll" /></a>
