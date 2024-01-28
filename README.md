@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpxeTJ0bnFyMGszMThhd2FvZzhiNXFicDdqYTV3MHEydng1amVraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZtusrBPGWbqlW/giphy.gif" width="30px"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnpodzQwbHhwZ2RueWEyNWRseDI1cG52ZDFmMDk2MHZpcW15NzdqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CW16nFVXLSQxSMUEMd/giphy-downsized-large.gif" alt="GIF">
+  <a href="https://github.com/AzRDll">
+    <img src="./BannerGif.gif" alt="AzRDll" /></a>
 </p>
 
 <p align="center">
