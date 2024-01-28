@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I'm%20Noah%20AKA%20AzRDll%20🌱%20🤖; Student%20At%20DHBW%20Stuttgart&font=Sixtyfour&color=2efdcc&vCenter=true&center=true&pause=1000&width=700"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I'm%20Noah%20AKA%20AzRDll%20🌱%20🤖; Student%20At%20DHBW%20Stuttgart; Working%20in%20the%20IoT%20sector; Learning%20about%20Cyber%20Security; Avid%20HTB%20Enjoyer; R6%20Siege%20Player&font=Sixtyfour&color=2efdcc&vCenter=true&center=true&pause=1000&width=700"/>
 </p>
 <p align="center">
   <a href="https://github.com/AzRDll">
