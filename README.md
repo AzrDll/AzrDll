@@ -14,7 +14,8 @@
   <img src="https://komarev.com/ghpvc/?username=AzrDll&style=flat-square&color=blue" alt=""/>
 </p>
 
-### 👋 About Me
+<details open> 
+  <summary><h2>👤 About Me</h2></summary>
 
 I am **Noah** and I currently pursue a professional career in **IT-Security**
 
@@ -26,8 +27,9 @@ I am **Noah** and I currently pursue a professional career in **IT-Security**
 - 🏢 **Work:** In the IoT Industry 🛠️  
 - 🌱 **Learning:** AI and Machine Learning, and Cyber Security 🤖  
 - 🎯 **Goals:** To contribute to open-source projects and have fun while learning 🌐
-- 📫 **Contact:** Discord: a7xr 📧  
+- 📫 **Contact:** Discord: a7xr 📧
 
+</details>
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=AzrDll&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
