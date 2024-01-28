@@ -22,7 +22,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXYzOWcwM2IzNG41b2RmdHZhdW0wdXZoNTN1Njd4aWF0OGRldTE1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Kg9JwOFEyoK75CzQSK/giphy.gif" width="30px"/>
 </h1>
 
-<center>
+</center>
 
 ### 👋 About Me
 
@@ -52,5 +52,7 @@ I am **Noah** and I currently pursue a professional career in **IT-Security**
   </a>
 </div>
 
+
+</center>
 
 
