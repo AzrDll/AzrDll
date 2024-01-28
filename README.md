@@ -46,8 +46,6 @@ I am **Noah** and I currently pursue a professional career in **IT-Security**
 
 📫 **Contact:** Discord: a7xr 📧  
 
-# helo
-
 <div style="text-align: center;">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=AzrDll&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
