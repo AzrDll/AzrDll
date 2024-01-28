@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/AzRDll">
-    <img src="./CW16nFVXLSQxSMUEMd.gif" alt="AzRDll" /></a>
+    <img src="./CW16nFVXLSQxSMUEMd.gif" alt="AzRDll style="display:block; margin:auto;" /></a>
 </p>
 
 <p align="center">
