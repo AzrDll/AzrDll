@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I'm%20Noah%20AKA%20AzRDll; Student%20At%20DHBW%20Stuttgart"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I'm%20Noah%20AKA%20AzRDll%20🌱; Student%20At%20DHBW%20Stuttgart"/>
 </p>
 <p align="center">
   <a href="https://github.com/AzRDll">
