@@ -17,10 +17,11 @@
 <div id= "ViewCount" align="center">
   <img src="https://komarev.com/ghpvc/?username=AzrDll&style=flat-square&color=blue" alt=""/>
 </div>
-<h1 style="text-align: center;">
-  Hey my name is Noah!
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXYzOWcwM2IzNG41b2RmdHZhdW0wdXZoNTN1Njd4aWF0OGRldTE1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Kg9JwOFEyoK75CzQSK/giphy.gif" width="30px"/>
-</h1>
+<p align="center">
+  HELLO I AM NOAH
+  <br/>
+  THIS IS MY PROFILE
+</p>
 
 </center>
 
