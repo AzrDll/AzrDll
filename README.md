@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AzRDll">
-    <img src="./BannerGif.gif" alt="AzRDll" /></a>
+    <img src="./CW16nFVXLSQxSMUEMd.gif" alt="AzRDll" /></a>
 </p>
 
 <p align="center">
