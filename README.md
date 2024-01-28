@@ -3,9 +3,11 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpxeTJ0bnFyMGszMThhd2FvZzhiNXFicDdqYTV3MHEydng1amVraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZtusrBPGWbqlW/giphy.gif" width="30px"/>
 </p>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnpodzQwbHhwZ2RueWEyNWRseDI1cG52ZDFmMDk2MHZpcW15NzdqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CW16nFVXLSQxSMUEMd/giphy-downsized-large.gif" width="100"/>
-</div>
+<p align="center">
+  <img src="[https://i.imgur.com/GZHodUG.png](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnpodzQwbHhwZ2RueWEyNWRseDI1cG52ZDFmMDk2MHZpcW15NzdqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CW16nFVXLSQxSMUEMd/giphy-downsized-large.gif)" width="100px"/>
+  <h3 align="center">Github Readme Streak Stats</h3>
+</p>
+
 <div id="badges" align="center">
   <a href="https://www.youtube.com/@noah_4e">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -17,6 +19,7 @@
 <div id= "ViewCount" align="center">
   <img src="https://komarev.com/ghpvc/?username=AzrDll&style=flat-square&color=blue" alt=""/>
 </div>
+
 <p align="center">
   HELLO I AM NOAH
   <br/>
