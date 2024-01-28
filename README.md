@@ -39,3 +39,7 @@ I am **Noah** and I currently pursue a professional career in **IT-Security**
     <img src="https://streak-stats.demolab.com?user=AzrDll&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
+
+## Credits
+
+Thanks to [DenverCoder1](https://github.com/DenverCoder1) for the inspiration...
