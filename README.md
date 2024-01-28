@@ -28,7 +28,8 @@ I am **Noah** and I currently pursue a professional career in **IT-Security**
 - 🌱 **Learning:** AI and Machine Learning, and Cyber Security 🤖  
 - 🎯 **Goals:** To contribute to open-source projects and have fun while learning 🌐
 - 📫 **Contact:** Discord: a7xr 📧
-
+<br/>
+<br/>
 </details>
 <p align="center">
   <a href="https://git.io/streak-stats">
