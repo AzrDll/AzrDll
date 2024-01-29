@@ -26,7 +26,7 @@ I am **Noah** and I currently pursue a professional career in **IT-Security**
 - 📍 **Location:** Germany, Stuttgart
 - 🎂 **Birthday:** November 10th 🎉  
 - 👀 **Interests:** Coding 💻, Traveling ✈️, Nature 🌱 
-- 🎓 **Education:** B.Sc. in Computer Science 🖥️ (still WIP, planned graduation is 2026))
+- 🎓 **Education:** B.Sc. in Computer Science 🖥️ (still WIP, planned graduation is 2026)
 - 🏢 **Work:** In the IoT Industry 🛠️  
 - 🌱 **Learning:** AI and Machine Learning, and Cyber Security 🤖  
 - 🎯 **Goals:** To contribute to open-source projects and have fun while learning 🌐
